@@ -219,7 +219,7 @@ http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB翡翠剧集" tvg-logo="http://192.168.3.74/TVB翡翠剧集台.jpeg" group-title="香港",[香港] TVB翡翠剧集
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB黄金翡翠" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png	" group-title="香港",[香港] TVB黄金翡翠剧集
+#EXTINF:-1 tvg-name="TVB黄金翡翠" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="香港",[香港] TVB黄金翡翠剧集
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB经典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="香港",[香港] TVB千禧经典剧集
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
